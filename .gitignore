@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+.env
+
+.DS_Store
+
+audio/data/*
+pdf/data/*
+images/data/*
+video/data/*
+text/data/*

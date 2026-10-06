@@ -1,0 +1,16 @@
+pandas
+numpy
+openai-whisper
+transformers
+torch
+spacy
+nltk
+PyMuPDF
+pdfplumber
+pytesseract
+opencv-python
+ultralytics
+Pillow
+scikit-learn
+streamlit
+matplotlib
